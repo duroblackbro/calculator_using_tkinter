@@ -16,7 +16,7 @@ This is a simple and user-friendly calculator built using Python's Tkinter libra
 
 1. **Clone the repository**:
     ```bash
-    git clone 
+    git clone https://github.com/duroblackbro/calculator_using_tkinter
     ```
    
 2. **Navigate to the project directory**:
